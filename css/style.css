@@ -32,7 +32,6 @@ header {
 		width: 1000px;
 		border-radius: 1em;
 		background-color: #FFFFFF;
-		padding: 0 2rem 2rem;
 	}
 
 	body {
@@ -46,6 +45,7 @@ header {
 
 .container {
 	margin: 0 auto;
+	padding: 0 2rem 2rem;
 }
 
 h1, h2 {
