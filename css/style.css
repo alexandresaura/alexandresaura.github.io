@@ -9,19 +9,26 @@ html {
 body {
 	margin: 0;
 	line-height: 1.5;
-	color: #666666;
+	color: #606060;
 	font-weight: 300;
 	background-color: #FFFFFF;
 }
 
 body a {
-	color: #666666;
+	color: #606060;
 	text-decoration: none;
 }
 
 body a:hover,
 body a:focus {
 	text-decoration: underline;
+}
+
+nav a:hover,
+nav a:focus {
+	text-decoration: none;
+	color: #000;
+	background-color: #D8D8D8;
 }
 
 header {
@@ -37,7 +44,7 @@ header {
 
 	body {
 		margin: 1em 0;
-		background-image: url(../img/background-image.jpg);
+		background-image: url(../img/background-image-low.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
@@ -102,7 +109,7 @@ nav a {
 
 .secao-conhecimentos th {
 	color: #FFFFFF;
-	background-color: #666666;
+	background-color: #606060;
 	font-weight: 400;
 }
 
