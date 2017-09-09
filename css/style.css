@@ -19,7 +19,8 @@ body a {
 	text-decoration: none;
 }
 
-body a:hover {
+body a:hover,
+body a:focus {
 	text-decoration: underline;
 }
 
