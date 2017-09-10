@@ -79,7 +79,7 @@ nav li {
 }
 
 nav a {
-	display: inline-block;
+	display: block;
 	padding: 1em;
 	margin: .25em;
 	background-color: #F1F1F1;
@@ -131,6 +131,7 @@ nav a {
 .secao-cursos div ~ div {
 	margin-top: 2em;
 }
+
 #ultimo-item-pag {
 	margin-bottom: 0;
 }
