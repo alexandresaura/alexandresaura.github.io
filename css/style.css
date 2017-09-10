@@ -84,13 +84,12 @@ nav a {
 	margin: .25em;
 	background-color: #F1F1F1;
 	text-transform: uppercase;
-	width: 17.5em;
+	width: 16em;
 }
 
 .secao-conhecimentos table {
 	border-collapse: separate;
 	border-spacing: .25em;
-    border-radius: 2em;
 }
 
 .secao-conhecimentos table [colspan] {
