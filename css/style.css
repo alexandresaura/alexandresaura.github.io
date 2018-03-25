@@ -145,3 +145,7 @@ th {
 .div-caixa p {
 	margin: 1em;
 }
+
+.div-table {
+	overflow-x: auto;
+}
