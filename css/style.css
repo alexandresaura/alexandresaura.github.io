@@ -106,32 +106,6 @@ th {
 	background-color: #D8D8D8;
 }
 
-.secao-conhecimentos table {
-	border-collapse: separate;
-	border-spacing: .25rem;
-	margin: 1rem 0;
-}
-
-.secao-conhecimentos table [colspan] {
-    text-align: center;
-    font-style: italic;
-}
-
-.secao-conhecimentos th,
-.secao-conhecimentos td {
-	padding: 1em;
-}
-
-.secao-conhecimentos th {
-	color: #FFFFFF;
-	background-color: #606060;
-	font-weight: 400;
-}
-
-.secao-conhecimentos td {
-	background-color: #F1F1F1;
-}
-
 .div-caixa {
 	background-color: #F1F1F1;
 	border-radius: 1rem;
